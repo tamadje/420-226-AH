@@ -14,6 +14,8 @@
 
 @implementation ViewController
 
+@synthesize toto;
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
